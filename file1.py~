@@ -1,1 +1,7 @@
 print "Hello John"
+<<<<<<< HEAD
+
+print "Specified to John"
+=======
+print "Hello tom"
+>>>>>>> 06f271365c9ea3d3b4c1b0f3519146cf7c2b6e7a
